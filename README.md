@@ -64,6 +64,11 @@ The project uses the following components:
 ---
 ## Future Prediction for Ingredient
 <img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/f02bcd5f-d5c5-4b2d-a01d-60288b6d0fd6" />
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/a9e7a5a0-462e-4433-81d5-035a1d0a9d8d" />
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/9c2a87fa-b078-4b3d-a847-6689b20b7180" />
+
+
+
 
 
 
